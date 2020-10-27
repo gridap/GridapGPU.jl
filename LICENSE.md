@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2020 Santiago Badia
+Copyright (c) 2020 [Santiago Badia](mailto:santiago.badia@monash.edu)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
