@@ -1,0 +1,3 @@
+[deps]
+Documenter = "e30172f5-a6a5-5a46-863b-614d45cd2de4"
+GridapGPU = "a9ef7761-6f04-49f8-b613-24ce1a8fdf5a"
